@@ -1,0 +1,13 @@
+.container{
+    width: 100%;
+    height: 400px;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container:nth-child(1){background-color: red;}
+.container:nth-child(2){background-color: violet;}
+.container:nth-child(3){background-color: blue;}
+.container:nth-child(4){background-color: green;}
+.container:nth-child(5){background-color: yellow;}
